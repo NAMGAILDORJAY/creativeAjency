@@ -7,7 +7,7 @@
   "regions": ["bom1"],
   "env": {
     "MONGODB_URI": "@mongodb_uri",
-    "NEXT_PUBLIC_SITE_URL": "@next_public_site_url",
+    "NEXT_PUBLIC_SITE_URL": "https://pama-studio.vercel.app/",
     "ADMIN_EMAIL": "@admin_email",
     "ADMIN_PASSWORD": "@admin_password"
   }
